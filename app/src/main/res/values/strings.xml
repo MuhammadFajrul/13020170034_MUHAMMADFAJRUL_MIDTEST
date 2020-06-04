@@ -1,0 +1,510 @@
+<resources>
+    <string name="app_name">TugasProject4</string>
+
+    <string-array name="nama">
+        <item>The Walking Dead(2010-)</item>
+        <item>Atlanta(2016)</item>
+        <item>Band Of Brothers(2001)</item>
+        <item>Black Mirror(2011-)</item>
+        <item>Breaking Bad(2008-2013)</item>
+        <item>Friends(1994-2004)</item>
+        <item>Game Of Thrones(2011-2019)</item>
+        <item>How I Meet Your Mother(2005))</item>
+        <item>Prison Break(2015-2017)</item>
+        <item>Sherlock(2010-)</item>
+        <item>Stranger Things(2016-)</item>
+        <item>The Big Bang Theory(2007-2019)</item>
+        <item>The 100 (2014-)</item>
+        <item>Orange is New Black (2013-)</item>
+        <item>Lost(2014-2010)</item>
+        <item>Super Natural(2005-)</item>
+        <item>Westworld(2016-)</item>
+        <item>Hannibal(2013-2015)</item>
+        <item>The flash(2014-)</item>
+        <item>You(2018)</item>
+
+    </string-array>
+
+    <array name="photo">
+        <item>@drawable/thewalkingdead</item>
+        <item>@drawable/atlanta</item>
+        <item>@drawable/bandofbrothers</item>
+        <item>@drawable/blackmirror</item>
+        <item>@drawable/breakingbad</item>
+        <item>@drawable/friends</item>
+        <item>@drawable/gameofthrones</item>
+        <item>@drawable/howimeetmymother</item>
+        <item>@drawable/prisonbreak</item>
+        <item>@drawable/sherlock</item>
+        <item>@drawable/strangerthings</item>
+        <item>@drawable/thebigbangtheori</item>
+        <item>@drawable/the100</item>
+        <item>@drawable/orangeisnewblack</item>
+        <item>@drawable/lost</item>
+        <item>@drawable/supernatural</item>
+        <item>@drawable/westworld</item>
+        <item>@drawable/hannibal</item>
+        <item>@drawable/theflash</item>
+        <item>@drawable/you</item>
+    </array>
+
+    <string-array name="desc">
+        <item>The Walking Dead menjadi tv series terbaik berikutnya. The Walking Dead adalah tv series bertemakan zombie terbaik Hollywood yang tidak boleh kamu lewatkan.Tv series ini berkisah tentang dunia yang sudah hancur akibat merebaknya wabah zombie. Sehingga membuat sekelompok manusia harus bertahan hidup dengan susah payah sekaligus mempertahankan diri dari serangan zombie yang siap menerkam mereka kapan saja.
+            Cerita yang menakutkan sekaligus kompleks dari The Walking Dead menjadi nilai plus yang tidak bisa dipandang dengan sebelah mata. Selain itu, salah satu tv series terbaik ini juga menyelipkan adegan drama, bahkan romantis di dalamnya. Sehingga membuat tv series yang diperankan oleh Norman Reedus, Andrew Lincoln, dan Lauren Cohan menjadi tv series yang lengkap.</item>
+        <item>Atlanta adalah sebuah tv series yang ditulis, disutradarai, dan dibintangi sekaligus oleh Glover. Ia berperan sebagai Earnest Earn Marks, seorang manajer musik yang mengubah hidupnya dengan mencoba membuat sepupunya sebagai seorang rapper ternama. Atlanta tak hanya berbicara tentang musik semata karena Glover juga menampilkan isu ras, pertentangan kelas, hingga industri hiburan dalam pendekatan komedi dan visual yang cerdas.</item>
+        <item>Band of Brothers bercerita tentang regu militer bernama Easy Company America. Dari mulai proses pelatihan, sampai saat regu ini diturunkan ke medan perang.
+            Serial tv ini mampu menyajikan sinematografi apik serta jalan cerita yang dijamin bisa membuat kamu ketagihan saat menyaksikannya.</item>
+        <item>Dalam satu dekade terakhir, perubahan teknologi terasa begitu cepat. Mulai munculnya smartphone, situs penyedia streaming musik dan video, dan puluhan platform sosial media yang dapat menampilkan dua sisi kepribadian dari seseorang. Jika ada sebuah film yang bisa merangkum perubahan-perubahan tersebut, nama Black Mirror harus menjadi urutan yang pertama.
+              Film seri antologi ciptaan Charlie Brooker ini mengambil benang merah yang sama di antara setiap episodenya, yaitu cerita mengejutkan, menghibur, sedih, dan menakutkan di balik gemerlapnya perkembangan inovasi di dunia teknologi.</item>
+        <item>Breaking Bad juga tv series terbaik yang mendapatkan rating yang sangat tinggi dari situs IMDB. Kenapa bisa seperti itu? Breaking Bad menawarkan kisah penuh drama, aksi, sekaligus komedi.
+            Breaking Bad menceritakan tentang seorang guru kimi bernama Walter White yang terjerumus ke dalam dunia narkoba setelah dinyatakan menderita kanker paru-paru. Alasan utama Walter White masuk ke bisnis barang haram tersebut adalah untuk mendapatkan banyak uang, sehingga ia bisa meninggalkan modal yang cukup untuk keluarganya jika suatu hari ia meninggal.</item>
+        <item>Friends pertama kali tayang pada tahun 1994, dan sukses menjadi tv series yang melambungkan nama para pemerannya. Tv series ini dibintangi oleh Jennifer Aniston, Courtney Cox, Matthew Perry, dan Lisa Kudrow ini mengisahkan tentang sekelompok sahabat yang tinggal di daerah Manhattan, New York.</item>
+        <item>Game of Throne bisa dibilang sebagai tv series terbaik dalam satu dekade terakhir. Hal itu dirasa tidak berlebihan, karena tv series garapan David Bennioff dan D.B. Weiss sukses merebut perhatian jutaan orang di seluruh dunia. Terbukti serial tv ini sukses mendapatkan rating tertinggi di situs IMDB, yaitu 9,5.
+            Secara garis besar, tv series ini berkisah tentang perebutan tahta kekuasaan diantara para keluarga. Bahkan mereka sampai mempertaruhkan nyawa untuk mendapatkan tahta yang mereka idam-idamkan.
+            Jalan cerita yang kompleks, imajinasi cerita liar, dan eksekusi apik membuat tv series yang dibintangi oleh Emilia Clarke, Kit Harrington, Sophie Turner, dan Lena Headey ini pantas menerima predikat tv series terbaik.</item>
+        <item>Tv series terbaik berikutnya juga masih berkutat di genre komedi, yaitu How I Met Your Mother. Lelucon dan tingkah laku konyol dari para karakternya membuat How I Met Your Mother sukses menjadi serial tv yang ditonton oleh jutaan orang di seluruh dunia.
+            How I Met Your Mother diawali dengan karakter Ted Mosby di tahun 2030 yang bercerita kepada kedua anaknya tentang bagaimana ia bertemu dengan istrinya. Lalu kembalilah latar ke tahun 2005 dimana semua kisah romantis dan komedi Ted Mosby dimulai.</item>
+        <item>Prison Break adalah serial kriminal yang pertama kali ditayangkan di stasiun tv FOX pada tahun 2005, dan tayang selama 4 musim dengan 81 episode. Namun di tahun 2017 lalu, tv series buatan Paul Scheuring ini kembali mengudara dengan menyajikan musim ke-5 nya.
+            Prison Break berpusat kepada dua bersaudara. Dimana salah satunya ditetapkan hukuman mati untuk kasus kriminal yang tidak ia lakukan. Dan saudaranya yang seorang insinyur berusaha masuk ke dalam penjara dan mengeluarkan saudara kandungnya dengan cara-cara mengejutkan.</item>
+        <item>Cerita dan teka-teki yang mengandung banyak kejutan menjadi nilai jual utama dari tv series Sherlock. Apalagi tv series ini juga dibintangi oleh aktor karismatik Bennedict Cumberbatch dan Martin Freeman yang memerakan karakter Sherlock dan John Watson dengan sangat piawai.
+            Kisah Sherlock Holmes memang sudah beberapa kali diangkat menjadi film layar lebar, namun tetap saja kamu tidak boleh melewatkan versi serial tv-nya yang dijamin mampu membuat kamu ketagihan dengan segala teka-teki ala Sherlock Holmes.</item>
+        <item>Stranger Things bercerita tentang seorang anak bernama Will Byers menghilang tanpa jejak. Sehingga membuat seluruh keluarganya kebingungan. Petualangan panjang yang dilakukan keluarga dan teman-teman Will dalam mencari dirinya pun tidak semudah yang dibayangkan. Banyak hal-hal seru yang menanti mereka.</item>
+        <item>Sheldon dan Leonard adalah ilmuwan, namun mereka sama saja dengan anak muda pada umumnya, tidak andal dalam urusan percintaan.
+            Jadi kalau kamu ingin menonton tv series terbaik yang ringan dan mampi menimbulkan banyak tawa, rasanya The Big Bang Theory menjadi jawaban yang tepat untuk kamu</item>
+        <item>Berkisah tentang pasca-apokaliptik bagaimana keadaan manusia setelah perang nuklir bergulir. Mereka yang mengungsi di luar angkasa selama puluhan tahun akhirnya memberanikan diri untuk turun ke bumi dan harus berjuang hidup melawan manusia yang ternyata dapat bertahan sebelumnya di bumi.</item>
+        <item>The New Black mengisahkan tentang Piper Chapman yang dipenjara karena kasus kejahatan yang ia lakukan. Banyak masalah yang harus dilalui oleh Piper, misalnya berkelahi dengan penghuni penjara lainnya, bahkan bermusuhan dengan salah satu koki di penjara tersebut. Kamu juga akan menemukan beberapa kisah di dalam penjara yang mungkin belum pernah kamu pikirkan sebelumnya.</item>
+        <item>Lost adalah salah satu yang terbaik sepanjang masa dengan biaya produksi yang sangat mahal pada masanya. Mengisahkan tentang perjuangan hidup orang-orang yang selamat dari kecelakaan pesawat di pulau terpencil dengan melawan makhluk misterius di pulau tersebut.</item>
+        <item> Supernatural pernah tayang di salah satu stasiun televisi sebagai pengisi program malam hari pada tahun 2007 sampai 2008 yang lalu? Memang sih, Supernatural menjadi salah satu serial TV terbaik paling populer pada masanya yang mengisahkan tentang dua bersaudara bekerja sebagai penyidik yang mengelilingi Amerika Serikat untuk menyelidiki peristiwa paranormal. Di sepanjang perjalanan itulah, mereka bertemu dengan berbagai makhluk gaib, seperti hantu, mailaikat, dan monster.</item>
+        <item>mengisahkan sebuah taman hiburan canggih bertemakan wild west alias koboi. Westworld sendiri diisi oleh android yang berbentuk sangat mirip dengan manusia beserta memori, emosi, dan rasa sakit yang mirip dengan manusia. Namun, pengunjung taman hiburan yang rata-rata berasal dari kalangan orang kaya ini diberikan kebebasan untuk melakukan hal semaunya di tempat tersebut.</item>
+        <item>Dr. Hannibal Lecter adalah seorang psikiater yang juga memiliki kepribadian yang psikopat yang menjadikannya dia seorang serial killer. Dia yang akhirnya bekerjasama dengan pihak FBI, berusaha memanipulasi mereka.</item>
+        <item>The Flash sendiri mempunyai kekuatan super berupa kecepatannya yang melebihi kecepatan cahaya. Bahkan kecepatannya bisa membuat dia berlari ke masa lalu lho!</item>
+        <item>ceritanya yang unik, bukan hanya menyajikan kisah cinta picisan, tetapi dibalut pula dengan nuansa thriller psikologis dari karakter utamanya. YOU merupakan serial yang diadaptasi dari novel karya Caroline Kepnes.</item>
+    </string-array>
+
+    <string-array name="genre">
+        <item>Horor || Serial Drama</item>
+        <item>Komedi || Drama || Horor</item>
+        <item>Action || Drama</item>
+        <item>fiksi || Ilmiah || Satire</item>
+        <item>Action || Drama Kejahatan || Komedi</item>
+        <item>Drama || Komedi</item>
+        <item>Drama Serial|| Fantasi</item>
+        <item>Drama || Komedi Romantis</item>
+        <item>Action || Drama Kejahatan</item>
+        <item>Action || Drama Kejahatan</item>
+        <item>Fiksi || Horor || Drama Sejarah</item>
+        <item>Sitcom</item>
+        <item>Drama Remaja</item>
+        <item>Drama Komedi</item>
+        <item>Petualangan || Mysteri || Drama || Fiksi</item>
+        <item>Action || Horor || Thriller</item>
+        <item>Fiksi || Action || Drama </item>
+        <item>Horor || Thriller || Drama Kejahatan </item>
+        <item>Fiksi || Action || Drama </item>
+        <item>Drama Kejahatan</item>
+    </string-array>
+
+    <string-array name="time">
+        <item>Serial 1 - Serial 10</item>
+        <item>21 episode</item>
+        <item>10 episode</item>
+        <item>Serial 1 - Serial 5</item>
+        <item>62 episode</item>
+        <item>238 episode</item>
+        <item>73 episode</item>
+        <item>208 episode</item>
+        <item>90 episode</item>
+        <item>13 episode</item>
+        <item>25 episode</item>
+        <item>279 episode</item>
+        <item>69 episode</item>
+        <item>91 episode</item>
+        <item>121 episode</item>
+        <item>320 episode</item>
+        <item>28 episode</item>
+        <item>39 episode</item>
+        <item>133 episode</item>
+        <item>20 episode</item>
+    </string-array>
+
+    <string-array name="sutradara">
+        <item>Frank Darabont</item>
+        <item>Donald Grover</item>
+        <item>Tom Hanks</item>
+        <item>Charlie Broker</item>
+        <item>Vinci Giligan</item>
+        <item>David Crane</item>
+        <item>David Beneof</item>
+        <item>Carter Bays</item>
+        <item>Paul Schuring</item>
+        <item>Paul Mcguigan</item>
+        <item>The Duffer Brothers</item>
+        <item>Chuck Lorre</item>
+        <item>Jason Rothebrerg</item>
+        <item>Jenji Kohan</item>
+        <item>Jefrey Lieber</item>
+        <item>Eric Kripke</item>
+        <item>Michel Crinston</item>
+        <item>Thomas Harris</item>
+        <item>Greg Berlanti</item>
+        <item>Greg Berlanti</item>
+    </string-array>
+
+    <string-array name="terbit">
+        <item>2010</item>
+        <item>2016</item>
+        <item>2001</item>
+        <item>2011</item>
+        <item>2008</item>
+        <item>1994</item>
+        <item>2011</item>
+        <item>2005</item>
+        <item>2005</item>
+        <item>2010</item>
+        <item>2016</item>
+        <item>2007</item>
+        <item>2014</item>
+        <item>2013</item>
+        <item>2004</item>
+        <item>2005</item>
+        <item>2016</item>
+        <item>2013</item>
+        <item>2014</item>
+        <item>2018</item>
+    </string-array>
+
+    <string-array name="castwalkingdead">
+        <item>Andrew Lincoln</item>
+        <item>Norman Reedus</item>
+        <item>Lauren Cauhan</item>
+        <item>Jefry Dean Morgan</item>
+        <item>Chandler Riggs</item>
+        <item>Danai Gurira</item>
+    </string-array>
+
+    <array name="photocastwalkingdead">
+        <item>@drawable/andrewlincoln</item>
+        <item>@drawable/normanreedus</item>
+        <item>@drawable/laurencauhan</item>
+        <item>@drawable/jefreydeanmorgan</item>
+        <item>@drawable/chandlerriggs</item>
+        <item>@drawable/danaigurira</item>
+    </array>
+
+    <string-array name="castatlanta">
+        <item>Donald Glover</item>
+        <item>Lakeith Stanfield</item>
+        <item>Zazie Beetz</item>
+        <item>Brian Tyree</item>
+        <item>Harold Moore</item>
+        <item>Khris Davis</item>
+    </string-array>
+
+    <array name="photocastatalanta">
+        <item>@drawable/donaldgrover</item>
+        <item>@drawable/lakeith</item>
+        <item>@drawable/zaziebeets</item>
+        <item>@drawable/briantyree</item>
+        <item>@drawable/haroldmoore</item>
+        <item>@drawable/khrisdavis</item>
+    </array>
+
+    <string-array name="castbandofbrothers">
+        <item>Damian Lewis</item>
+        <item>Michel Fassben</item>
+        <item>Tom Hardy</item>
+        <item>David Schwim</item>
+        <item>Ron Livingston</item>
+        <item>Michel Curdits</item>
+        <item>Neal McDonough</item>
+        <item>Collin hanks</item>
+    </string-array>
+
+    <array name="photocastbandofbrothers">
+        <item>@drawable/damianlewis</item>
+        <item>@drawable/michelfasbender</item>
+        <item>@drawable/tomhardy</item>
+        <item>@drawable/davidschwimmer</item>
+        <item>@drawable/ronlivingston</item>
+        <item>@drawable/michelculdits</item>
+        <item>@drawable/nealmcdonough</item>
+        <item>@drawable/colinhanks</item>
+    </array>
+
+    <string-array name="castblackmirror">
+        <item>Bryce Dallas</item>
+        <item>Hayley Atwel</item>
+        <item>Hannah John</item>
+        <item>Cristin Milioti</item>
+        <item>Daniel Kaluuya </item>
+    </string-array>
+
+    <array name="photocastblackmirror">
+        <item>@drawable/brycedallas</item>
+        <item>@drawable/hayleatwel</item>
+        <item>@drawable/hannahjhon</item>
+        <item>@drawable/cristinmilioti</item>
+        <item>@drawable/danielkaluuya</item>
+    </array>
+
+    <string-array name="castbrinkingbad">
+        <item>Aaron Paul</item>
+        <item>Bryan Watson</item>
+        <item>Anna Gun</item>
+        <item>Krysten Riftel</item>
+        <item>Rj Mittle</item>
+        <item>Dean Norris</item>
+    </string-array>
+
+    <array name="photocastbrikingbad">
+        <item>@drawable/aaronpaul</item>
+        <item>@drawable/bryancranston</item>
+        <item>@drawable/annagunn</item>
+        <item>@drawable/krystenritter</item>
+        <item>@drawable/rjmitte</item>
+        <item>@drawable/deannorris</item>
+    </array>
+
+    <string-array name="castfriend">
+        <item>Jennifer Aniston</item>
+        <item>Corteney Cox</item>
+        <item>Lisa Kudrow</item>
+        <item>Matthew</item>
+        <item>Mat LeBlanch</item>
+    </string-array>
+
+    <array name="photocastfriend">
+        <item>@drawable/jeniiferaniston</item>
+        <item>@drawable/courteney</item>
+        <item>@drawable/lisakudrow</item>
+        <item>@drawable/matthewperry</item>
+        <item>@drawable/mattleblanc</item>
+    </array>
+
+    <string-array name="castgame0fthrones">
+        <item>Daenerys Targaryen</item>
+        <item>Jhon Snow</item>
+        <item>Arya Stark</item>
+        <item>Tyrion Lanister</item>
+        <item>Sansa Strak</item>
+        <item>Khal Drogo</item>
+    </string-array>
+
+    <array name="photocastgameofthrones">
+        <item>@drawable/daenrenis</item>
+        <item>@drawable/jonsnow</item>
+        <item>@drawable/aryastrak</item>
+        <item>@drawable/tyrionlanister</item>
+        <item>@drawable/sansastrak</item>
+        <item>@drawable/khaldrogo</item>
+    </array>
+
+    <string-array name="casthowimeetyourmother">
+        <item>Cobie Smulders</item>
+        <item>neil Patrik Harris</item>
+        <item>Alyso Halingan</item>
+        <item>Josh Radnor</item>
+        <item>jason Segel</item>
+    </string-array>
+
+    <array name="photocasthowimeetyourmother">
+        <item>@drawable/cobiesmulders</item>
+        <item>@drawable/newilpatrickharis</item>
+        <item>@drawable/alysonhanningan</item>
+        <item>@drawable/joshradnor</item>
+        <item>@drawable/jasonsegel</item>
+    </array>
+
+    <string-array name="castprisonbreak">
+        <item>Wentworth Miller</item>
+        <item>Sarah Wayne </item>
+        <item>Dominic Purcel</item>
+        <item>Robetr Knepper</item>
+        <item>Amaury Nolasco</item>
+    </string-array>
+
+    <array name="photocastprisonbreak">
+        <item>@drawable/westworld</item>
+        <item>@drawable/sarahwayne</item>
+        <item>@drawable/dominicpurcel</item>
+        <item>@drawable/robertknepper</item>
+        <item>@drawable/amaurynolasco</item>
+    </array>
+
+    <string-array name="castsherlock">
+        <item>Benedict Cumberbatch</item>
+        <item>Martin Freeman</item>
+        <item>Andrew Scott</item>
+        <item>Lara Pulver</item>
+        <item>Mark Gatis</item>
+    </string-array>
+
+    <array name="photocastsherlock">
+        <item>@drawable/benedict</item>
+        <item>@drawable/martinfreeman</item>
+        <item>@drawable/andrewscott</item>
+        <item>@drawable/larapulver</item>
+        <item>@drawable/markgatis</item>
+    </array>
+
+    <string-array name="caststrangerthings">
+        <item>Milley Bobby Brown</item>
+        <item>finn wolfhard</item>
+        <item>Noah Scnap</item>
+        <item>Gaten Materazzo </item>
+        <item>Natalia Dyer</item>
+    </string-array>
+
+    <array name="photocaststrangerthings">
+        <item>@drawable/milliebobby</item>
+        <item>@drawable/finnwolfhard</item>
+        <item>@drawable/noahscnap</item>
+        <item>@drawable/gaten</item>
+        <item>@drawable/nataliadyer</item>
+    </array>
+
+    <string-array name="castthebigbangteori">
+        <item>Kaley Cuaco</item>
+        <item>Jim Parson</item>
+        <item>Melissa Rauch</item>
+        <item>Mayim Bialik </item>
+        <item>Johny Galecki</item>
+    </string-array>
+
+    <array name="photocastthebigbangteori">
+        <item>@drawable/kaleycouco</item>
+        <item>@drawable/jimparson</item>
+        <item>@drawable/melissarauch</item>
+        <item>@drawable/mayimbialik</item>
+        <item>@drawable/johnygalecki</item>
+    </array>
+
+    <string-array name="castthe100">
+        <item>Eliza Taylor</item>
+        <item>bob Morley</item>
+        <item>Marie Avgerop</item>
+        <item>Alycia Debman </item>
+        <item>Lindsey Morgan</item>
+    </string-array>
+
+    <array name="photocastthe100">
+        <item>@drawable/elizatailor</item>
+        <item>@drawable/bobmorley</item>
+        <item>@drawable/marieavgero</item>
+        <item>@drawable/aliciadebnam</item>
+        <item>@drawable/lindseymorgan</item>
+    </array>
+
+    <string-array name="castorangeisnewblack">
+        <item>Laura Prepon</item>
+        <item>Taylor Schilling</item>
+        <item>Ruby Rose</item>
+        <item>Lauren Lapkus</item>
+        <item>Natasha Lyonne</item>
+    </string-array>
+
+    <array name="photocastorangeisnewblack">
+        <item>@drawable/lauraprepon</item>
+        <item>@drawable/taylorscholling</item>
+        <item>@drawable/rubyrose</item>
+        <item>@drawable/laurenlapkus</item>
+        <item>@drawable/natashalyonne</item>
+    </array>
+
+    <string-array name="castlost">
+        <item>Jorge Garcia</item>
+        <item>Evangeline Lily</item>
+        <item>Josh Holoway</item>
+        <item>Ian Somer</item>
+        <item>Matthew Fox</item>
+    </string-array>
+
+    <array name="photocastlost">
+        <item>@drawable/jorgegarcia</item>
+        <item>@drawable/evangeline</item>
+        <item>@drawable/joshholoway</item>
+        <item>@drawable/iansomer</item>
+        <item>@drawable/mathewfox</item>
+    </array>
+
+    <string-array name="castsupernatural">
+        <item>Jensen Ackhles</item>
+        <item>Jared Padelecki</item>
+        <item>Misha Collins</item>
+        <item>Jefrey Dean Morgan</item>
+        <item>Alexander Calvert</item>
+    </string-array>
+
+    <array name="photocastsupernatural">
+        <item>@drawable/jensenackhles</item>
+        <item>@drawable/jaredpadeleki</item>
+        <item>@drawable/mishacollins</item>
+        <item>@drawable/jefreydeanmorgan</item>
+        <item>@drawable/alexandercalvert</item>
+    </array>
+
+    <string-array name="castwestworld">
+        <item>Evan Rachel Wood</item>
+        <item>Thandie Newton</item>
+        <item>Tessa Thompson</item>
+        <item>Aaron Paul</item>
+        <item>Ed Harris</item>
+    </string-array>
+
+    <array name="photocastwestworld">
+        <item>@drawable/thnadienewton</item>
+        <item>@drawable/thnadienewton</item>
+        <item>@drawable/tessatompson</item>
+        <item>@drawable/aaronpaul</item>
+        <item>@drawable/edharris</item>
+    </array>
+
+    <string-array name="casthannibal">
+        <item>Mads Mikelsen </item>
+        <item>Hugh Dancy</item>
+        <item>Gilian Anderson</item>
+        <item>Caroline Davernas</item>
+        <item>Lauren Fishburn </item>
+    </string-array>
+
+    <array name="photocasthannibal">
+        <item>@drawable/madsmikelsen</item>
+        <item>@drawable/hughdancy</item>
+        <item>@drawable/giliananderson</item>
+        <item>@drawable/carolinedhvernas</item>
+        <item>@drawable/laurencefishburne</item>
+    </array>
+
+    <string-array name="casttheflash">
+        <item>Grant Gustin </item>
+        <item>Daniale Panabaker</item>
+        <item>Candice Patton</item>
+        <item>Logan Wiliams</item>
+        <item>Wentworth Miller </item>
+    </string-array>
+
+    <array name="photocasttheflash">
+        <item>@drawable/grantgustin</item>
+        <item>@drawable/danielepanabeker</item>
+        <item>@drawable/candicepatton</item>
+        <item>@drawable/loganwiliams</item>
+        <item>@drawable/wentwortmiller</item>
+    </array>
+
+    <string-array name="casttheyou">
+        <item>Pan Badgley </item>
+        <item>Victoria Padretti</item>
+        <item>elizabeth Lail</item>
+        <item>Shay Mitchel</item>
+        <item>James Scrully </item>
+    </string-array>
+
+    <array name="photocastyou">
+        <item>@drawable/pennbadgly</item>
+        <item>@drawable/victoriapadretti</item>
+        <item>@drawable/elizbethlail</item>
+        <item>@drawable/shaymitchel</item>
+        <item>@drawable/jamessculli</item>
+    </array>
+
+</resources>
